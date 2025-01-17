@@ -6,6 +6,6 @@ int main()
 {
     int a;
     cin >>a;
-    cout << a << "bot";
+    cout << a << "22222";
     
 }
